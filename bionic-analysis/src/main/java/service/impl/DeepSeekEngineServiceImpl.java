@@ -36,6 +36,7 @@ public class DeepSeekEngineServiceImpl implements IntelligentEngineService {
 
     private final RestTemplate restTemplate = new RestTemplate();
 
+    @Override
     public boolean doFeedData(List<Pair<String,String>> dataList) {
         if(CollectionUtils.isEmpty(dataList)){
             return false;

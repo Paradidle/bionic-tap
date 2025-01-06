@@ -1,0 +1,5 @@
+bionic-tap:
+  deep-seek:
+    base-url: https://api.deepseek.com
+    api-secret: sk-bbf1f555106347698c331f3f987e187d
+    chat-url: /chat/completions

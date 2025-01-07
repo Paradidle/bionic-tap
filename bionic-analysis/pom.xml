@@ -25,11 +25,6 @@
 
 
     <dependencies>
-        <!-- 添加具体的Spring Cloud模块依赖，例如Eureka客户端 -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
-        </dependency>
         <!-- 其他Spring Boot Starter依赖 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

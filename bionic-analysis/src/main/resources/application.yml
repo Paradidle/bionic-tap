@@ -4,3 +4,7 @@ bionic-tap:
     api-secret: sk-bbf1f555106347698c331f3f987e187d
     chat-url: /chat/completions
     chat-model: deepseek-chat
+
+logging:
+  level:
+    org.springframework.cloud: DEBUG

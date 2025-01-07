@@ -1,4 +1,4 @@
-package service;
+package bionic.analysis.service;
 
 import java.util.List;
 import javafx.util.Pair;

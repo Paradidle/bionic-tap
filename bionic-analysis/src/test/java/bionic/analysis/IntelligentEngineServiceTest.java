@@ -18,7 +18,7 @@ public class IntelligentEngineServiceTest {
     public void testDoFeedData() {
         List<Pair<String, String>> dataList = new ArrayList<>();
 
-        dataList.add(new Pair<>("寻道大千中怎么处理日常活动？","先把所有红点都点一次领取桃和水"));
+        dataList.add(new Pair<>("Deepseek中怎样通过接口传输图片？",""));
 
         // 调用 doFeedData 方法
         intelligentEngineService.doFeedData(dataList);

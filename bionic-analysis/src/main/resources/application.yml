@@ -1,3 +1,5 @@
+server:
+  port: 32001
 bionic-tap:
   deep-seek:
     base-url: https://api.deepseek.com
